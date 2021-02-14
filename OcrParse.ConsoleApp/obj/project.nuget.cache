@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lk/LigcJqONEYmUbUJWEsaqIOnUtqn9/hCNtQOj61tOi0hf8Qk8SKx0xcfvTWNh4tCbpfsLjSblU9BQqiYpQ2w==",
+  "dgSpecHash": "pRKeA4oxqfXTKchMl23g506XDVPtDk5m6MJlxt1HbiBHqeh8+QPbYEkkYpKegikmC70rftydd4UFGdY42TG6kQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yunus\\source\\repos\\KaizenCaseStudy\\OcrParse.ConsoleApp\\OcrParse.ConsoleApp.csproj",
+  "projectFilePath": "C:\\Users\\yunus\\Documents\\GitHub\\kaizen-case-study\\OcrParse.ConsoleApp\\OcrParse.ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yunus\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

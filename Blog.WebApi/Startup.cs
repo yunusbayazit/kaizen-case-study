@@ -1,6 +1,7 @@
 using AutoMapper;
 using AutoMapper.Data;
 using Blog.WebApi.Helpers;
+using Blog.WebApi.Middleware;
 using Blog.WebApi.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
@@ -39,6 +40,7 @@ namespace Blog.WebApi
                 config.AddDataReaderMapping();
             }, typeof(Startup));
 
+            services.AddLogging();
             // configure strongly typed settings objects
             var appSettingsSection = Configuration.GetSection("AppSettings");
             services.Configure<AppSettings>(appSettingsSection);
@@ -155,6 +157,9 @@ namespace Blog.WebApi
 
             app.UseAuthentication();
             app.UseAuthorization();
+
+            app.UseRequestResponseLogging();
+            app.UseMiddleware<ErrorHandlerMiddleware>();
 
             app.UseEndpoints(endpoints =>
             {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yunus\\source\\repos\\KaizenCaseStudy\\Blog.WebApi\\Blog.WebApi.csproj": {}
+    "C:\\Users\\yunus\\Documents\\GitHub\\kaizen-case-study\\Blog.WebApi\\Blog.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yunus\\source\\repos\\KaizenCaseStudy\\Blog.WebApi\\Blog.WebApi.csproj": {
+    "C:\\Users\\yunus\\Documents\\GitHub\\kaizen-case-study\\Blog.WebApi\\Blog.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yunus\\source\\repos\\KaizenCaseStudy\\Blog.WebApi\\Blog.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\yunus\\Documents\\GitHub\\kaizen-case-study\\Blog.WebApi\\Blog.WebApi.csproj",
         "projectName": "Blog.WebApi",
-        "projectPath": "C:\\Users\\yunus\\source\\repos\\KaizenCaseStudy\\Blog.WebApi\\Blog.WebApi.csproj",
+        "projectPath": "C:\\Users\\yunus\\Documents\\GitHub\\kaizen-case-study\\Blog.WebApi\\Blog.WebApi.csproj",
         "packagesPath": "C:\\Users\\yunus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yunus\\source\\repos\\KaizenCaseStudy\\Blog.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\yunus\\Documents\\GitHub\\kaizen-case-study\\Blog.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yunus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -73,6 +73,10 @@
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[5.0.1, )"
+            },
+            "Microsoft.IO.RecyclableMemoryStream": {
+              "target": "Package",
+              "version": "[1.4.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

@@ -57,11 +57,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yunus\\source\\repos\\KaizenCaseStudy\\OcrParse.ConsoleApp\\OcrParse.ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\yunus\\Documents\\GitHub\\kaizen-case-study\\OcrParse.ConsoleApp\\OcrParse.ConsoleApp.csproj",
       "projectName": "OcrParse.ConsoleApp",
-      "projectPath": "C:\\Users\\yunus\\source\\repos\\KaizenCaseStudy\\OcrParse.ConsoleApp\\OcrParse.ConsoleApp.csproj",
+      "projectPath": "C:\\Users\\yunus\\Documents\\GitHub\\kaizen-case-study\\OcrParse.ConsoleApp\\OcrParse.ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\yunus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yunus\\source\\repos\\KaizenCaseStudy\\OcrParse.ConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\yunus\\Documents\\GitHub\\kaizen-case-study\\OcrParse.ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yunus\\AppData\\Roaming\\NuGet\\NuGet.Config",
