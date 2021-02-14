@@ -1,0 +1,15 @@
+C:\Users\yunus\source\repos\KaizenCaseStudy\OcrParse.ConsoleApp\bin\Debug\netcoreapp3.1\OcrParse.ConsoleApp.exe
+C:\Users\yunus\source\repos\KaizenCaseStudy\OcrParse.ConsoleApp\bin\Debug\netcoreapp3.1\OcrParse.ConsoleApp.deps.json
+C:\Users\yunus\source\repos\KaizenCaseStudy\OcrParse.ConsoleApp\bin\Debug\netcoreapp3.1\OcrParse.ConsoleApp.runtimeconfig.json
+C:\Users\yunus\source\repos\KaizenCaseStudy\OcrParse.ConsoleApp\bin\Debug\netcoreapp3.1\OcrParse.ConsoleApp.runtimeconfig.dev.json
+C:\Users\yunus\source\repos\KaizenCaseStudy\OcrParse.ConsoleApp\bin\Debug\netcoreapp3.1\OcrParse.ConsoleApp.dll
+C:\Users\yunus\source\repos\KaizenCaseStudy\OcrParse.ConsoleApp\bin\Debug\netcoreapp3.1\OcrParse.ConsoleApp.pdb
+C:\Users\yunus\source\repos\KaizenCaseStudy\OcrParse.ConsoleApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\yunus\source\repos\KaizenCaseStudy\OcrParse.ConsoleApp\obj\Debug\netcoreapp3.1\OcrParse.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\KaizenCaseStudy\OcrParse.ConsoleApp\obj\Debug\netcoreapp3.1\OcrParse.ConsoleApp.AssemblyInfo.cs
+C:\Users\yunus\source\repos\KaizenCaseStudy\OcrParse.ConsoleApp\obj\Debug\netcoreapp3.1\OcrParse.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\KaizenCaseStudy\OcrParse.ConsoleApp\obj\Debug\netcoreapp3.1\OcrParse.ConsoleApp.csproj.CopyComplete
+C:\Users\yunus\source\repos\KaizenCaseStudy\OcrParse.ConsoleApp\obj\Debug\netcoreapp3.1\OcrParse.ConsoleApp.dll
+C:\Users\yunus\source\repos\KaizenCaseStudy\OcrParse.ConsoleApp\obj\Debug\netcoreapp3.1\OcrParse.ConsoleApp.pdb
+C:\Users\yunus\source\repos\KaizenCaseStudy\OcrParse.ConsoleApp\obj\Debug\netcoreapp3.1\OcrParse.ConsoleApp.genruntimeconfig.cache
+C:\Users\yunus\source\repos\KaizenCaseStudy\OcrParse.ConsoleApp\bin\Debug\netcoreapp3.1\file\response.json
